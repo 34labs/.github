@@ -1,0 +1,9 @@
+name: Feature request
+description: Suggest a new feature
+body:
+  - type: textarea
+    attributes:
+      label: Describe the idea
+  - type: textarea
+    attributes:
+      label: Why is this useful?
