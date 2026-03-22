@@ -2,7 +2,7 @@
 <hr>
 <p align="center">
   
-  <a href="https://forms.gle/qKzXNU7yfSRPBTH49">
+  <a href="https://forms.gle/qKzXNU7yfSRPBTH49" target="_blank">
     <img style="width: 350px;" src="https://lh7-rt.googleusercontent.com/formsz/AN7BsVAxc7hlKm4rqJMIGHbI9yqexAt9DNMfRtgc7qmvT8wvyWYlVV6JI3F-Wh_Z37jiQvBfKDn7LHpKWIiOME3DRmF1550D1m8VkhUU0MuRhP17iUTHr7sc3e4K8c17MPwqYn2MismxAKkFQmkh57uA5ITq9juxYBejK0BaGM-43deFb9bBiH0EXusaMapYuWy-x49nKq5EHuYJClo=w1996?key=U9UNP_rxuJFO6XVDP-M7FQ" alt="Banner">
     <img style="width: 350px;" src="https://img.shields.io/badge/Join%2034labs!-Click%20Here!-blue?style=for-the-badge" alt="FormClick">
   </a>
